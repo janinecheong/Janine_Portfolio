@@ -48,21 +48,12 @@ In this project, we will be using different data importing and cleaning, data ma
     </item>
     
     <item>
-      <title>Project # 3: xxx</title>
+      <title>Project # 3: Template</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</link>
-      <pubDate>Mon, 13 Jul 2020 11:15:58 -0400</pubDate>
+      <pubDate>Fri, 07 Aug 2020 11:14:48 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</guid>
-      <description>xxx &amp;mdash; xxx</description>
-    </item>
-    
-    <item>
-      <title>Project # 4: yyy</title>
-      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</guid>
-      <description>yyy &amp;mdash; yyy</description>
+      <description>This is a template.</description>
     </item>
     
   </channel>
