@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, world! on Janine Cheong</title>
+    <link>https://janinecheong.github.io/Janine_Portfolio/</link>
+    <description>Recent content in Hello, world! on Janine Cheong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://janinecheong.github.io/Janine_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Major Project # 1: Predicting Top 50 S&amp;P 500 Stock Market Prices</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-1/</link>
+      <pubDate>Sat, 16 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-1/</guid>
+      <description>Forecasting can be defined as the prediction of some future event by analyzing historical data. This project aims to predict the closing stock price of Top 50 S&amp;amp;P 500 companies using the past 60-day stock price and comparing the results using different ML/DL models.
+Moreover, the aim of the project is to provide support for beginners as a general guide on the price predictions. It also aims to identify application opportunities of machine learning in the stock market - bridging whether the technical analysis follows the model used.</description>
+    </item>
+    
+    <item>
+      <title>Major Project # 2: Analyzing World Happiness Report 2019</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-2/</link>
+      <pubDate>Sat, 19 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-2/</guid>
+      <description>The World Happiness Report measures the overall state of global happiness by factoring in each country&amp;rsquo;s status in economy, health, social support, government trust, etc. and ranks the countries by how happy their citizens perceive themselves to be. Since it covers different factors, it can be a useful guide to measure policy effectiveness and good governance and assess the quality of life among countries.
+Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Maico Rebong.</description>
+    </item>
+    
+    <item>
+      <title>Project # 1: Exploring the Bitcoin Cryptocurrency Market</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 12 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-1/</guid>
+      <description>Cryptocurrency, especially Bitcoin, has been a buzz word lately. With a lot more people being exposed to trading, cyptocurrencies has been a strong contender for people and company investments.
+In this project, we will be using different data importing and cleaning, data manipulation, and data visualization techniques from basic Python to explore the Bitcoin Cryptocurrency Market. This project is created through Datacamp&amp;rsquo;s guided projects.
+  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project # 2: Predicting Credit Card Approvals</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 08 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-2/</guid>
+      <description>Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual&amp;rsquo;s credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.</description>
+    </item>
+    
+    <item>
+      <title>Project # 3: xxx</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 13 Jul 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</guid>
+      <description>xxx &amp;mdash; xxx</description>
+    </item>
+    
+    <item>
+      <title>Project # 4: yyy</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</guid>
+      <description>yyy &amp;mdash; yyy</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Linkedin: https://www.linkedin.com/in/janine-cheong-a94345154/   Github: https://github.com/janinecheong    </description>
+    </item>
+    
+  </channel>
+</rss>
