@@ -34,7 +34,7 @@ Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Ma
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-1/</guid>
       <description>Cryptocurrency, especially Bitcoin, has been a buzz word lately. With a lot more people being exposed to trading, cyptocurrencies has been a strong contender for people and company investments.
-In this project, we will be using different data importing and cleaning, data manipulation, and data visualization techniques from basic Python to explore the Bitcoin Cryptocurrency Market. This project is created through Datacamp&amp;rsquo;s guided projects.
+In this project, we will be using different data importing and cleaning, data manipulation, and data visualization techniques from basic Python to explore the Bitcoin Cryptocurrency Market. This project is created through the DataCamp guided projects.
   Link to Github Repository</description>
     </item>
     
@@ -48,12 +48,13 @@ In this project, we will be using different data importing and cleaning, data ma
     </item>
     
     <item>
-      <title>Project # 3: Template</title>
+      <title>Project # 3: Analyze International Debt Statistics using SQL</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</link>
-      <pubDate>Fri, 07 Aug 2020 11:14:48 -0400</pubDate>
+      <pubDate>Sat, 01 Aug 2020 11:14:48 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</guid>
-      <description>This is a template.</description>
+      <description>It&amp;rsquo;s not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country&amp;rsquo;s citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
+In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.</description>
     </item>
     
   </channel>
