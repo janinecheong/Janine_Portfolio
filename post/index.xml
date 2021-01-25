@@ -33,7 +33,7 @@ Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Ma
       <pubDate>Sat, 12 Sep 2020 11:13:32 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-1/</guid>
-      <description>Cryptocurrency, especially Bitcoin, has been a buzz word lately. With a lot more people being exposed to trading, cyptocurrencies has been a strong contender for people and company investments.
+      <description>With a lot more people being exposed to trading these days, cryptocurrency, especially Bitcoin, has become a great investment for people and companies.
 In this project, we will be using different data importing and cleaning, data manipulation, and data visualization techniques from basic Python to explore the Bitcoin Cryptocurrency Market. This project is created through the DataCamp guided projects.
   Link to Github Repository</description>
     </item>
@@ -44,7 +44,8 @@ In this project, we will be using different data importing and cleaning, data ma
       <pubDate>Sat, 08 Aug 2020 11:14:48 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-2/</guid>
-      <description>Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual&amp;rsquo;s credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.</description>
+      <description>Applications for credit cards in commercial banks can come in high volume and approvals can be tedious. Many of them get rejected for many reasons, like high loan balances, low income levels, etc. With that, manually analyzing these applications is mundane, error-prone, and time-consuming. Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays.
+In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.</description>
     </item>
     
     <item>
@@ -53,8 +54,8 @@ In this project, we will be using different data importing and cleaning, data ma
       <pubDate>Sat, 01 Aug 2020 11:14:48 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</guid>
-      <description>It&amp;rsquo;s not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country&amp;rsquo;s citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
-In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.</description>
+      <description>From developing countries to the world&amp;rsquo;s richest nations, most countries issue debt in order to finance their growth and manage their economy. This is similar to how a business will take out a loan to finance a new project, or how a family might take out a loan to buy a home. The World Bank is the organization that provides debt to countries.
+In this notebook, we will be analyzing international debt data collected by The World Bank.</description>
     </item>
     
   </channel>
