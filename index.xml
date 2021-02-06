@@ -6,11 +6,11 @@
     <description>Recent content in Hello, world! on Janine Cheong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://janinecheong.github.io/Janine_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://janinecheong.github.io/Janine_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Major Project # 1: Predicting Top 50 S&amp;P 500 Stock Market Prices</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-1/</link>
-      <pubDate>Sat, 16 Jan 2021 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 05 Feb 2021 10:58:08 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-1/</guid>
       <description>Forecasting can be defined as the prediction of some future event by analyzing historical data. This project aims to predict the closing stock price of Top 50 S&amp;amp;P 500 companies using the past 60-day stock price and comparing the results using different ML/DL models.
@@ -20,7 +20,7 @@ Moreover, the aim of the project is to provide support for beginners as a genera
     <item>
       <title>Major Project # 2: Analyzing World Happiness Report 2019</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-2/</link>
-      <pubDate>Sat, 19 Sep 2020 11:00:59 -0400</pubDate>
+      <pubDate>Thu, 04 Feb 2021 11:00:59 -0400</pubDate>
       
       <guid>https://janinecheong.github.io/Janine_Portfolio/post/majorproject-2/</guid>
       <description>The World Happiness Report measures the overall state of global happiness by factoring in each country&amp;rsquo;s status in economy, health, social support, government trust, etc. and ranks the countries by how happy their citizens perceive themselves to be. Since it covers different factors, it can be a useful guide to measure policy effectiveness and good governance and assess the quality of life among countries.
@@ -28,7 +28,27 @@ Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Ma
     </item>
     
     <item>
-      <title>Project # 1: Exploring the Bitcoin Cryptocurrency Market</title>
+      <title>Visualizing 2020 New York Traffic Accidents using Power BI</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 03 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-4/</guid>
+      <description>The dataset for this dashboard was obtained from Maven Analytics which aims to analyze motor vehicle collisions in New York City from January to August 2020. Every record represents an individual collision containing details about the date, time, location of the accident, vehicles, victims involved and contributing factors.
+It can be seen that out of the 5 boroughs, Brooklyn is home to the biggest distribution of fatalities. The highest contributing factor to the collisions is due to distracted driving.</description>
+    </item>
+    
+    <item>
+      <title> Replication of Maven Analytics Queen&#39;s Gambit Challenge Entry</title>
+      <link>https://janinecheong.github.io/Janine_Portfolio/post/project-5/</link>
+      <pubDate>Tue, 02 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://janinecheong.github.io/Janine_Portfolio/post/project-5/</guid>
+      <description>This dashboard analyzes data for over 20,000 chess games played on Lichess containing records about the winner, player ratings, moves, time increments, etc. The dataset was obtained from Maven Analytics and this dashboard is only for Power BI practice purposes and has replicated one of the entries of the Queen&amp;rsquo;s Gambit Challenge.
+We can see in the dashboard that, with the first-move advantage, White has the highest number of wins by resignation in terms of victory status.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Bitcoin Cryptocurrency Market</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/project-1/</link>
       <pubDate>Sat, 12 Sep 2020 11:13:32 -0400</pubDate>
       
@@ -39,7 +59,7 @@ In this project, we will be using different data importing and cleaning, data ma
     </item>
     
     <item>
-      <title>Project # 2: Predicting Credit Card Approvals</title>
+      <title>Predicting Credit Card Approvals</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/project-2/</link>
       <pubDate>Sat, 08 Aug 2020 11:14:48 -0400</pubDate>
       
@@ -49,7 +69,7 @@ In this notebook, we will build an automatic credit card approval predictor usin
     </item>
     
     <item>
-      <title>Project # 3: Analyze International Debt Statistics using SQL</title>
+      <title>Analyze International Debt Statistics using SQL</title>
       <link>https://janinecheong.github.io/Janine_Portfolio/post/project-3/</link>
       <pubDate>Sat, 01 Aug 2020 11:14:48 -0400</pubDate>
       
